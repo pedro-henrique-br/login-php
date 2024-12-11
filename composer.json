@@ -1,0 +1,12 @@
+{
+    "name": "pedro/login-php",
+    "authors": [
+        {
+            "name": "Pedro Henrique",
+            "email": "doctorfast10.12@hotmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
