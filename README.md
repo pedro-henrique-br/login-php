@@ -9,13 +9,13 @@ PHP 8.3, Bootstrap, MySQL e XAMPP.
 Clone este repositório
 
 ```bash
-  git clone https://github.com/pedro-henrique-br/Help-desk-ticketing-system
+  git clone https://github.com/pedro-henrique-br/login-php
 ```
 
 Va para o diretório
 
 ```bash
-  cd Help-desk-ticketing-system
+  cd login-php
 ```
 
 Instale
